@@ -6,4 +6,5 @@ def mymul(a, b):
     return a * b
 def mydiv(a, b):
     return a / b
-print("hello world")
+if __name__ == '__main__':
+    print("hello world")
